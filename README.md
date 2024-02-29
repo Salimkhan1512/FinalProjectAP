@@ -37,13 +37,11 @@ c) Current Work:
 
 ![image](https://github.com/Salimkhan1512/FinalProjectAP/assets/123942008/52993813-f742-4ed6-b114-05ed86b349b6)
 
-![image](https://github.com/Salimkhan1512/FinalProjectAP/assets/123942008/6a382711-f6d8-43a2-badd-3e2a6688a2ea)
-
  
 - Temporal Patterns:
   The temporal plot shows the number of earthquakes occurring each year, indicating any notable trends or variations over time.
 
-![image](https://github.com/Fareke1/final-project-advanced-programming/assets/153728604/0ef2ec4e-ac34-4a70-ba64-6552412ce855)
+![image](https://github.com/Salimkhan1512/FinalProjectAP/assets/123942008/6a382711-f6d8-43a2-badd-3e2a6688a2ea)
 
  
 d) Discussion
@@ -52,7 +50,8 @@ The analysis reveals insights into the distribution, magnitudes, depths, and tem
 - Next Steps:
 Future work could involve more advanced analytics, including predictive modeling using machine learning algorithms to forecast earthquake occurrences or assess their impact on infrastructure and population centers.
 
-![image](https://github.com/Fareke1/final-project-advanced-programming/assets/153728604/2bb8dfa6-39c5-4e0f-858b-0fce0b09c766)
+![image](https://github.com/Salimkhan1512/FinalProjectAP/assets/123942008/b6aba581-cdca-47a2-9d68-5dec99832a60)
+
 
  
 From here we selected the start and end time and chose the range
