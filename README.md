@@ -27,17 +27,17 @@ c) Current Work:
 - Spatial Distribution:
   The scatter plot on the map of Kazakhstan illustrates the spatial distribution of earthquakes, with larger magnitude events represented by larger and darker points.
 
- ![image](https://github.com/Fareke1/final-project-advanced-programming/assets/153728604/1ba8f495-d292-4fcb-86c3-ed2c5220393c)
+![image](https://github.com/Salimkhan1512/FinalProjectAP/assets/123942008/ceef1f2e-d822-4f22-a099-97a3e3874177)
 
 
 - Magnitude and Depth Distribution:
   Histograms display the frequency distribution of earthquake magnitudes and depths, providing insights into their characteristics.
 
- ![image](https://github.com/Fareke1/final-project-advanced-programming/assets/153728604/1707f9ae-a76b-4de8-bf41-b9056ef9d21f)
+![image](https://github.com/Salimkhan1512/FinalProjectAP/assets/123942008/ee25cdf9-d547-41b3-a847-f05cf98c01da)
 
- ![image](https://github.com/Fareke1/final-project-advanced-programming/assets/153728604/e47c7be5-16ab-42ac-affa-9e1a9833d236)
+![image](https://github.com/Salimkhan1512/FinalProjectAP/assets/123942008/52993813-f742-4ed6-b114-05ed86b349b6)
 
-![image](https://github.com/Fareke1/final-project-advanced-programming/assets/153728604/b88c71f0-aadb-4c8f-939a-3af9176cb931)
+![image](https://github.com/Salimkhan1512/FinalProjectAP/assets/123942008/6a382711-f6d8-43a2-badd-3e2a6688a2ea)
 
  
 - Temporal Patterns:
