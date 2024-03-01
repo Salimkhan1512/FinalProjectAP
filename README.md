@@ -1,6 +1,7 @@
 # final-project-advanced-programming
  
 REPORT FINAL EXAM ADVANCED PROGRAMMING
+
 FROM: Yeshim Salimkhan and Zhubatkan Farukh (IT-2203)
 TO: Advanced Programming’s teacher
 TOPIC: Historical earthquake data of Kazakhstan and neighboring countries (1991-2024)
